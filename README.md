@@ -1,10 +1,11 @@
-###Virtual memory
+# Virtual memory
+
 This is program for the implementation of algorithms for managing virtual memory and comparing them with each other. 
 
 
 The program accepts one or several files. 
 
-**Description of correct format of input data:**
+### Description of correct format of input data:
 
 * the file must contain the top three lines and only them
 * the top line shows the number of pages in the process's address space (1 natural number)
@@ -13,7 +14,7 @@ The program accepts one or several files.
 
 The results of the program are displayed on the screen. 
 
-**Description of output:**
+### Description of output:
 
 1. The file was not in the correct format:
 
@@ -61,7 +62,7 @@ LRU: 7
 
 ```
 
-#####file.txt
+**file.txt**
 ````
 10
 3
